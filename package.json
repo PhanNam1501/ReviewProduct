@@ -1,0 +1,13 @@
+{
+  "name": "huybui",
+  "version": "1.0.0",
+  "description": "Hệ thống đánh giá sản phẩm mới sử dụng blockchain, cho phép các nhà sản xuất lấy đánh giá từ người dùng về sản phẩm mà không yêu cầu chia sẻ thông tin cá nhân.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@4.4.1+sha224.fd21d9eb5fba020083811af1d4953acc21eeb9f6ff97efd1b3f9d4de"
+}
